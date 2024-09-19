@@ -1,4 +1,4 @@
-![bliksem](https://github.com/user-attachments/assets/326f8e45-67f6-4b3f-be36-c0bd31871688)
+![bliksem](https://github.com/user-attachments/assets/f009f81d-2160-4878-94f8-199f6805eb8f)
 
 # Bliksem Smart Home IoT Scanner
 Bliksem is a home IoT scanner which aims to reduce the prevalence of threats in smart homes, created by Askaari (https://askaari.com). The tool is a preventative measure that can be run on any device with python installed. It will scan your entire home subnet and external IP address. 
