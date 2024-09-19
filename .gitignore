@@ -1,0 +1,13 @@
+# Ignore everything
+*
+
+# Except the following:
+!modules/
+!modules/**
+modules/__pycache__/
+modules/__pycache__/**
+!README.md
+!LICENSE
+!bliksem.py
+!requirements.txt
+!.gitignore
